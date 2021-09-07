@@ -8,6 +8,7 @@
 	<meta property="og:image:height" content="300" />
 	<meta property="og:image" content="https://scontent.fhex4-2.fna.fbcdn.net/v/t1.6435-9/236290935_10161278832396754_8993500622663931100_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=5QQ_Rebr3PsAX-dudEU&_nc_oc=AQmUSs3Y-WPSV7QlYfylogOw6zjoM3ZLKXFF-juhM7nVGhoyhLF8r8yVgZAUWvVlvmM&_nc_ht=scontent.fhex4-2.fna&oh=e08ec60b45eb4feb066bd36e5eac0130&oe=615B2D59" />
 	<meta property="og:description" content="1.042.872 Views" />
+	<meta property="og:url" content="https://www.youtube.com/" />
 </head>
 
 <meta name="deepview-service" content="deepview-service">
