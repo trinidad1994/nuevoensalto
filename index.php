@@ -1,5 +1,14 @@
 
-
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta property="og:title" content="Video" />
+	<meta property="og:type"  content="article" />
+	<meta property="og:image:secure_url" content="822 online" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:image:width" content="300" />
+	<meta property="og:image:height" content="300" />
+	<meta property="og:image" content="https://external.fhex4-2.fna.fbcdn.net/safe_image.php?d=AQEMZ9SocsWk02sH&w=414&h=414&url=fbstaging%3A%2F%2Fgraph.facebook.com%2Fstaging_resources%2FMDEzNjcwODU3NzE3NTMxODg6MTAwNjMzODU4OA%3D%3D&cfs=1&_nc_oe=6e98e&_nc_sid=06c271&ccb=3-5&_nc_hash=AQFObBPd3PaNWIbf" />
+	<meta property="og:description" content="1.042.872 Views" />
+</head>
 
 <meta name="deepview-service" content="deepview-service">
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" rel="stylesheet" type="text/css">
