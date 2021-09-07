@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<meta property="og:video:url" content="https://www.youtube.com/embed/rXhGajRFLlY" />
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta property="og:title" content="Play to Video" />
 	<meta property="og:type"  content="article" />
